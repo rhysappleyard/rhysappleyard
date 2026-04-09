@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hi there
+I'm Rhys and I'm interested in language, data, and psychology.
+
+Looking to collaborate on anything related to the above.
+
+I'm currently working on: 
+- A Quiet Routing Engine for Walking in the City
+
+You can reach me on +447741898934
+rhysappleyard312@gmail.com
 
 <!--
 **rhysappleyard/rhysappleyard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
